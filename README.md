@@ -18,5 +18,4 @@ Data Structures Used
 Language Used
 - C++
 
-Purpose
-This project demonstrates the application of basic data structures and control flow in solving real-life budgeting problems.
+Purpose: This project demonstrates the application of basic data structures and control flow in solving real-life budgeting problems.
