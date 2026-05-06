@@ -121,7 +121,7 @@ int main() {
     cout << "\nCategory Breakdown:" << endl;
 
     for (int i = 0; i < categories.size(); i++) {
-        cout << i + 1 << ". " << left << setw(15) << categories[i].name << ": P" << categories[i].amount << endl;
+        cout << i + 1 << ". " << left << setw(15) << categories[i].name << ": Php " << categories[i].amount << endl;
     }
 
     // STATUS CHECK
